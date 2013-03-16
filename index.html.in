@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sample</title>
+    <script>
+        var source = %JSSOURCE%;
+        Function(source)()
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
